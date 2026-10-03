@@ -70,4 +70,4 @@ All testing is done in authorized lab environments (TryHackMe, PortSwigger Web S
 
 **LinkedIn:** https://www.linkedin.com/in/shazia-sadique-24b3702a2/
 
-**Email:** [shaziasadique153@gmail.com](mailto:shaziasadique153@gmail.com)
+**Email:** [shaziasadique.153@gmail.com](mailto:shaziasadique.153@gmail.com)
